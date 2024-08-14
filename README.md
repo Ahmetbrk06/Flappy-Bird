@@ -6,8 +6,9 @@ Kuş Kontrolü: Boşluk tuşuna basarak kuşu zıplatın.
 Engeller: Ekranda hareket eden borular, kuşun geçmeye çalıştığı engeller olarak yer alır.
 Puanlama: Her başarılı geçiş ile puan artar.
 Basit Grafik Arayüzü: Oyun, görsel olarak kuş, engeller ve skorları içerir.
-Kurulum
-Java JDK: Bu projeyi çalıştırmak için Java Development Kit (JDK) yüklü olmalıdır. Java JDK'yı buradan indirebilirsiniz.
+
+Kurulum:
+Java JDK: Bu projeyi çalıştırmak için Java Development Kit (JDK) yüklü olmalıdır.
 
 Proje Dosyalarını İndirin:
 
