@@ -14,16 +14,12 @@ Proje Dosyalarını İndirin:
 Bu projeyi GitHub üzerinden klonlayın veya ZIP dosyasını indirip çıkarın:
 sh
 Kodu kopyala
-git clone https://github.com/kullanici_adiniz/flappy-bird-java.git
+git clone [https://github.com/kullanici_adiniz/flappy-bird-java.git](https://github.com/Ahmetbrk06/Flappy-Bird/tree/main)
 IDE veya Komut Satırı ile Çalıştırma:
 
 IDE Kullanarak: Projeyi bir Java IDE (Eclipse, IntelliJ IDEA, vb.) ile açın ve çalıştırın.
 Komut Satırı Kullanarak:
-sh
-Kodu kopyala
-cd flappy-bird-java
-javac FlappyBird.java
-java FlappyBird
+
 Kullanım
 Oyunu Başlatın: FlappyBird sınıfını çalıştırarak oyunu başlatın.
 Oynamak: Boşluk tuşuna basarak kuşu zıplatın ve engellerden kaçın.
